@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Pakshal!
+I'm a UMass Lowell graduate, with a BS in Computer Science and a minor in math. I'm currently 25 years old. Some things about me...
+
+## 🔭 Current Endeavors:
+A startup (RotoBot AI), which looks at AI solutions to create an agent capable of answering all things sports. Built mainly using Python and SQL, we're aiming to provide reliable and up-to-date information and insights about players and games, across various sports.
+
+On a more personal level, I'm trying to create an application for liquor stores involving real-time inventory updates across multiple stores, a store locator, and an AI-agent aiming to assist customers with product selection and checkout.
+
+## 📫 Lets Get in Touch!
+Email: pakshal.ag@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/pakshal-gandhi-51209027b/
+
+If you got this far, I hope you have a good day 😄
 
 <!--
 **pakshalg/pakshalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
