@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Pakshal!
-Computer Science BS + Math Minor from UMass Lowell
-25 years old. 
-About me...
+Computer Science BS + Math Minor from UMass Lowell. 25 years old. Some things about me...
 
 ## 🔭 Current Endeavors:
 A startup (RotoBot AI), which looks at AI solutions to create an agent capable of answering all things sports. Built mainly using Python and SQL, we're aiming to provide reliable and up-to-date information and insights about players and games, across various sports.
