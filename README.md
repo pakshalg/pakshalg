@@ -2,9 +2,7 @@
 Computer Science BS + Math Minor from UMass Lowell. 25 years old. Some things about me...
 
 ## 🔭 Current Endeavors:
-A startup (RotoBot AI), which looks at AI solutions to create an agent capable of answering all things sports. Built mainly using Python and SQL, we're aiming to provide reliable and up-to-date information and insights about players and games, across various sports.
-
-On a more personal level, I'm trying to create an application for liquor stores involving real-time inventory updates across multiple stores, a store locator, and an AI-agent aiming to assist customers with product selection and checkout.
+Looking for an internship or entry-level role. Working on various passion projects which can be seen on my profile.
 
 ## 📫 Lets Get in Touch!
 Email: pakshal.ag@gmail.com
