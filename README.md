@@ -2,7 +2,7 @@
 
 Full stack developer with experience building data-driven systems, APIs, and scalable applications.
 
-Tech: Python, React, Node.js, PostgreSQL, APIs, ML
+Tech: Python, JavaScript (React, Node.js), PostgreSQL, REST APIs, Machine Learning
 
 ### 🔧 What I work on
 - Backend systems and API integrations  
