@@ -1,15 +1,22 @@
-## Hi there 👋 I'm Pakshal!
-Computer Science BS + Math Minor from UMass Lowell. 25 years old. Some things about me...
+## Hi, I'm Pakshal 👋
 
-## 🔭 Current Endeavors:
-Looking for an internship or entry-level role. Working on various passion projects which can be seen on my profile.
+Software Engineer with experience building data-driven systems, APIs, and backend services.
 
-## 📫 Lets Get in Touch!
-Email: pakshal.ag@gmail.com
+### 🔧 What I work on
+- Backend systems and API integrations  
+- Data pipelines and analytics tools  
+- Machine learning projects
+- Ensuring data accuracy, system reliability, and validating functionality through testing
+  
 
-LinkedIn: https://www.linkedin.com/in/pakshal-gandhi-51209027b/
-
-If you got this far, I hope you have a good day 😄
+### 🚀 Projects
+- **RPR** – Multi-platform analytics system integrating Amazon SP-API and eBay APIs  
+- **LiquorBuddy** – Full-stack retail app with real-time inventory and store locator  
+- **Reddit ML Model** – BERT-based model for engagement prediction
+  
+### 📫 Contact
+- Email: pakshal.ag@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/pakshal-gandhi-51209027b/
 
 <!--
 **pakshalg/pakshalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
