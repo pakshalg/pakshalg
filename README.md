@@ -1,6 +1,6 @@
 ## Hi, I'm Pakshal 👋
 
-Full stack developer with experience building data-driven systems, APIs, and scalable applications.
+Full stack developer with experience building data-driven systems and working with APIs and production applications.
 
 Tech: Python, JavaScript (React, Node.js), PostgreSQL, REST APIs, Machine Learning
 
