@@ -16,7 +16,7 @@ Software Engineer with experience building data-driven systems, APIs, and backen
   
 ### 📫 Contact
 - Email: pakshal.ag@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/pakshal-gandhi-51209027b/
+- LinkedIn: https://www.linkedin.com/in/pakshalg
 
 <!--
 **pakshalg/pakshalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
